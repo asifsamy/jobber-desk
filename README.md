@@ -3,6 +3,8 @@ Jober Desk is a web application which is dedicated to small jobs where User can 
 
 Here microservice arcitechture was used to develop this application.
 
+micproject folder holding the frontend part (Angular) and django-mic folder holding the backend part (Django REST)
+
 Technologies Used:
 1. FrontEnd Framework :  Angular 7
 2. Backend Framework : Django REST
