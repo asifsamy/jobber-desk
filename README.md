@@ -7,7 +7,7 @@ Here <b>microservice arcitechture</b> was used to develop this application.
 
 Technologies Used:
 1. FrontEnd Framework :  <b>Angular 7</b>
-2. Backend Framework : <b>Django REST<b>
+2. Backend Framework : <b>Django REST</b>
 3. Database : <b>PostgreSQL</b>
 4. Hosting : <b>Docker</b>
 
