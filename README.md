@@ -9,4 +9,4 @@ Technologies Used:
 3. Database : PostgreSQL
 4. Hosting : Docker
 
-For more information see our presentation slide: https://docs.google.com/presentation/d/1WFRuMoZqkoBznLbBZGrRsWodaItW2vxFcLahwpDgqQY/edit#slide=id.p5
+For more information see our presentation slide: https://docs.google.com/presentation/d/1WFRuMoZqkoBznLbBZGrRsWodaItW2vxFcLahwpDgqQY/edit#slide=id.p1
